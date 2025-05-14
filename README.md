@@ -46,7 +46,7 @@
     ![预设条目](https://img.sillytavern.party/1_%E8%A7%92%E8%89%B2%E5%88%B6%E4%BD%9C.png)  
 
 3.  **选择用户**  
-    在Silly Tavern中，选择一个名为`{{user}}`的用户，以免你的用户名污染作品。  
+    在Silly Tavern中，选择一个名为`{{user}}`的用户，以免你的用户名污染作品（0人想知道你的user叫什么）。  
     ![选择用户](https://img.sillytavern.party/1_user.png)
 
 4.  **与空卡对话并输入要求**  
